@@ -1,6 +1,17 @@
 body{
     background-color: blueviolet;
     color:deeppink;
-    font-family: 'Times New Roman', Times, serif;
-    margin-bottom: 100px;
+font-family: 'Times New Roman', Times, serif;
+margin-bottom: 100px;
+}
+
+header {
+  border-bottom: solid 2px aquamarine;
+ padding: 20px;
+  font-size: 32px;
+color: black;
+}
+
+. chamada {
+
 }
